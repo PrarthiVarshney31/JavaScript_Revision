@@ -84,7 +84,8 @@ const obj3={...obj1,...obj2}
 console.log(objname.hasOwnProperty('email'));       //check property exist or nt=ot
 
 // value can also be fetch without dot
-// const {email:id}=user;       -->distructuring
+// const {email:id}=user;       -->destructuring
+// console.log(email)
 // console.log(id);
 
 
